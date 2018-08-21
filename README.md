@@ -1,6 +1,6 @@
 # Save Time
 
-Save Time is an app, that allows users to find little services around the city that they be, for example, an users that need to get your pets clean or someone who's need to wash your car, thats Save time is made for !!
+Save Time is an app, that allows users to find little services around the city that they be, for example, an user that need to get your pets clean or someone who's need to wash your car, thats Save time is made for !!
 
 ## Getting Started
 
